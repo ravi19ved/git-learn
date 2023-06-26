@@ -9,10 +9,10 @@ Learning Resources for git version control system
 
 #Books
 <li>
-  This
-  is 
-  a 
-  book
+<li> This is a book
+<li> one
+<li> two
+<li> three
 </li>
 
 #Reference Links
