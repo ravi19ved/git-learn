@@ -7,7 +7,8 @@ Learning Resources for git version control system
 
 # Resources
 
-#Books
+# Books
+
 <li>
 <li> This is a book
 <li> one
@@ -15,6 +16,6 @@ Learning Resources for git version control system
 <li> three
 </li>
 
-#Reference Links
+# Reference Links
 
 # Notes 
