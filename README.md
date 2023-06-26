@@ -30,6 +30,6 @@ Learning Resources for git version control system
 
 [1]: https://git-scm.com/book/en/v2.html
 [2]: https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
-[3]: https://github.com/hadley/testthat 
+[3]: [https://github.com/hadley/testthat](https://training.github.com/) 
 [4]: http://r-pkgs.had.co.nz/tests.html
 
