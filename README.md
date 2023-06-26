@@ -9,7 +9,7 @@ Learning Resources for git version control system
 
 - [Git Reference Book][1]
 - [Git for Developers][2]
-- [More unit test examples][3]
+- [Git Tool kit][3]
 
 ## Books
 
