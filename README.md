@@ -11,6 +11,7 @@ Learning Resources for git version control system
 - [Git for Developers][2]
 - [Git Tool kit][3]
 - [Git Cheet Sheet][4]
+- [Git Manual Page][5]
 
 ## Books
 
@@ -33,4 +34,5 @@ Learning Resources for git version control system
 [2]: https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
 [3]: https://training.github.com
 [4]: https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+[5]: https://git.github.io/htmldocs/git.html
 
