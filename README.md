@@ -1,13 +1,17 @@
-# git-learn
+## git-learn
 Learning Resources for git version control system
 
-# Introduction
+## Introduction
 
 <i> This Repository is created to understand and learn the git version control system.  Along with this we will also learn and explore how to push code pull from a remote repository branching, code committing and pushing, branching, and other nuts and bolts of git version control system.  Also I ll add list of learning resources both online and offline to learn git. </i>
 
-# Resources
+## Resources
 
-# Books
+- [Git Reference Book][1]
+- [testthat][2]
+- [More unit test examples][3]
+
+## Books
 
 <li>
 <li> This is a book
@@ -16,12 +20,15 @@ Learning Resources for git version control system
 <li> three
 </li>
 
-# Reference Links
-<li> 
-<li> [Git Reference Book](https://git-scm.com/book/en/v2)
-<li> one 
-<li> two
-<li> three
-</li>
 
-# Notes 
+
+
+## Notes 
+
+
+## Reference Links
+
+[1]: https://git-scm.com/book/en/v2.html
+[2]: https://github.com/hadley/testthat
+[3]: http://r-pkgs.had.co.nz/tests.html
+[4]: 
