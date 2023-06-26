@@ -3,7 +3,11 @@ Learning Resources for git version control system
 
 ## Introduction
 
-<i> This Repository is created to understand and learn the git version control system.  Along with this we will also learn and explore how to push code pull from a remote repository branching, code committing and pushing, branching, and other nuts and bolts of git version control system.  Also I ll add list of learning resources both online and offline to learn git. </i>
+<i> This Repository is created to understand and learn the git version control system.  
+Along with this we will also learn and explore how to push code pull from a remote 
+repository branching, code committing and pushing, branching, and other nuts and bolts 
+of git version control system.  Also I ll add list of learning resources both online 
+and offline to learn git. </i>
 
 ## Resources
 
@@ -13,6 +17,11 @@ Learning Resources for git version control system
 - [Git Cheet Sheet][4]
 - [Git Manual Page][5]
 - [Git Bitbucket Learn][6]
+- [Git User Manual][7]
+- [Git Tutorial][8]
+- [Git Bitbucket Learn][9]
+- [Git Bitbucket Learn][10]
+- [Git Bitbucket Learn][11]
 
 ## Books
 
@@ -21,6 +30,7 @@ Learning Resources for git version control system
 <li> one
 <li> two
 <li> three
+<li> four
 </li>
 
 
@@ -36,7 +46,8 @@ Learning Resources for git version control system
 [3]: https://training.github.com
 [4]: https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 [5]: https://git.github.io/htmldocs/git.html
-[6]:https://www.atlassian.com/git/tutorials/setting-up-a-repository
-
-
+[6]: https://www.atlassian.com/git/tutorials/setting-up-a-repository
+[7]: https://git-scm.com/docs/user-manual
+[8]: https://git-scm.com/docs/gittutorial
+[9]: 
 
