@@ -8,7 +8,7 @@ Learning Resources for git version control system
 ## Resources
 
 - [Git Reference Book][1]
-- [testthat][2]
+- [Git for Developers][2]
 - [More unit test examples][3]
 
 ## Books
@@ -29,6 +29,7 @@ Learning Resources for git version control system
 ## Reference Links
 
 [1]: https://git-scm.com/book/en/v2.html
-[2]: https://github.com/hadley/testthat
-[3]: http://r-pkgs.had.co.nz/tests.html
-[4]: 
+[2]: https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class
+[3]: https://github.com/hadley/testthat 
+[4]: http://r-pkgs.had.co.nz/tests.html
+
