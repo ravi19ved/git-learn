@@ -17,5 +17,11 @@ Learning Resources for git version control system
 </li>
 
 # Reference Links
+<li> 
+<li> [Git Reference Book](https://git-scm.com/book/en/v2)
+<li> one 
+<li> two
+<li> three
+</li>
 
 # Notes 
