@@ -27,7 +27,14 @@ and offline to learn git. </i>
 - [Git 50 Commands][14]
 - [Git Terminology][15]
 - [Git cheat sheet pdf][16]
+- [Git and Github Tutorials - Hubspot][17]
+- [Mark Down Cheet Sheet][18]
+
+
+
+
 ## Books
+
 
 <li>
 <li> This is a book
@@ -59,4 +66,6 @@ and offline to learn git. </i>
 [14]: https://www.freecodecamp.org/news/git-cheat-sheet/
 [15]: https://www.cloudways.com/blog/git-cheat-sheet/
 [16]: https://education.github.com/git-cheat-sheet-education.pdf
+[17]: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+[18]: https://www.markdownguide.org/cheat-sheet/
 
