@@ -26,7 +26,7 @@ and offline to learn git. </i>
 - [Git Glossary][13]
 - [Git 50 Commands][14]
 - [Git Terminology][15]
-
+- [Git cheat sheet pdf][16]
 ## Books
 
 <li>
@@ -58,3 +58,5 @@ and offline to learn git. </i>
 [13]: https://docs.github.com/en/get-started/quickstart/github-glossary
 [14]: https://www.freecodecamp.org/news/git-cheat-sheet/
 [15]: https://www.cloudways.com/blog/git-cheat-sheet/
+[16]: https://education.github.com/git-cheat-sheet-education.pdf
+
